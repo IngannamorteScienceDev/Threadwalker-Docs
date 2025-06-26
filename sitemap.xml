@@ -1,43 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://ingannamortesciencedev.github.io/Threadwalker-Docs/en/</loc>
          <lastmod>2025-06-26</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://ingannamortesciencedev.github.io/Threadwalker-Docs/en/en/"/>
-         <xhtml:link rel="alternate" hreflang="ru" href="https://ingannamortesciencedev.github.io/Threadwalker-Docs/ru/en/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="https://ingannamortesciencedev.github.io/Threadwalker-Docs/ja/en/"/>
-         <xhtml:link rel="alternate" hreflang="zh" href="https://ingannamortesciencedev.github.io/Threadwalker-Docs/zh/en/"/>
-         
     </url>
     <url>
          <loc>https://ingannamortesciencedev.github.io/Threadwalker-Docs/ja/</loc>
          <lastmod>2025-06-26</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://ingannamortesciencedev.github.io/Threadwalker-Docs/en/ja/"/>
-         <xhtml:link rel="alternate" hreflang="ru" href="https://ingannamortesciencedev.github.io/Threadwalker-Docs/ru/ja/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="https://ingannamortesciencedev.github.io/Threadwalker-Docs/ja/ja/"/>
-         <xhtml:link rel="alternate" hreflang="zh" href="https://ingannamortesciencedev.github.io/Threadwalker-Docs/zh/ja/"/>
-         
     </url>
     <url>
          <loc>https://ingannamortesciencedev.github.io/Threadwalker-Docs/ru/</loc>
          <lastmod>2025-06-26</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://ingannamortesciencedev.github.io/Threadwalker-Docs/en/ru/"/>
-         <xhtml:link rel="alternate" hreflang="ru" href="https://ingannamortesciencedev.github.io/Threadwalker-Docs/ru/ru/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="https://ingannamortesciencedev.github.io/Threadwalker-Docs/ja/ru/"/>
-         <xhtml:link rel="alternate" hreflang="zh" href="https://ingannamortesciencedev.github.io/Threadwalker-Docs/zh/ru/"/>
-         
     </url>
     <url>
          <loc>https://ingannamortesciencedev.github.io/Threadwalker-Docs/zh/</loc>
          <lastmod>2025-06-26</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://ingannamortesciencedev.github.io/Threadwalker-Docs/en/zh/"/>
-         <xhtml:link rel="alternate" hreflang="ru" href="https://ingannamortesciencedev.github.io/Threadwalker-Docs/ru/zh/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="https://ingannamortesciencedev.github.io/Threadwalker-Docs/ja/zh/"/>
-         <xhtml:link rel="alternate" hreflang="zh" href="https://ingannamortesciencedev.github.io/Threadwalker-Docs/zh/zh/"/>
-         
     </url>
 </urlset>
