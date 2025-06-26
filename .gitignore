@@ -1,0 +1,47 @@
+# 👉 Python general
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+
+# 👉 Virtual environment
+.venv/
+venv/
+env/
+ENV/
+*.env
+
+# 👉 PyCharm IDE
+.idea/
+
+# 👉 MkDocs build output
+site/
+
+# 👉 OS-specific
+.DS_Store
+Thumbs.db
+
+# 👉 Backup / temp files
+*.bak
+*.swp
+*.swo
+*.~*
+
+# 👉 Logs
+*.log
+
+# 👉 Dependency metadata
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+
+# 👉 MkDocs cache (optional)
+.cache/
+
+# 👉 Node-related (если вдруг используешь расширения)
+node_modules/
+
+# 👉 Jupyter / notebooks (если случайно окажутся)
+.ipynb_checkpoints/
