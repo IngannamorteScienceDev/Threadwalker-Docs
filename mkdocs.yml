@@ -4,12 +4,6 @@ site_url: https://ingannamortesciencedev.github.io/Threadwalker-Docs/
 theme:
   name: material
   language: en
-  features:
-    - navigation.instant
-    - navigation.sections
-    - navigation.tabs
-    - content.code.copy
-    - content.action.edit
   palette:
     - scheme: default
       primary: blue
@@ -20,16 +14,27 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
 
 plugins:
   - search
   - i18n:
       default_language: en
+      default_language_only: true
       languages:
-        en: English
-        ru: Русский
-        ja: 日本語
-        zh: 中文
-
-nav:
-  - Home: index.md
+        en:
+          name: English
+          build: true
+        ru:
+          name: Русский
+          build: true
+        ja:
+          name: 日本語
+          build: true
+        zh:
+          name: 中文
+          build: true
